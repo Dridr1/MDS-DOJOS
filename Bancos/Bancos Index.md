@@ -1,0 +1,6 @@
+- [ ] SQL (esse-que-ele, sequel sei lá pô)
+- [ ] PostgreSQL
+- [ ] Criando bancos de dados (O jeito difícil)
+- [ ] Criando bancos de dados (O jeito fácil)
+- [ ] Conectando o banco de dados com o NodeJS
+- [ ] Criando bancos de dados do jeito mais fácil ainda com ORMs (opcional, não será usado no projeto)

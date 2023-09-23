@@ -1,0 +1,4 @@
+- [ ] O tal do NodeJS
+- [ ] ExpressJS
+- [ ] Arquitetura de APIs em NodeJS
+- [ ] Como raios eu testo isso?
