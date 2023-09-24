@@ -1,5 +1,3 @@
-- [ ] HTTP/HTTPS
-- [ ] TCP/IP
+- [ ] [[HTTP e TCP-IP]]
 - [ ] Navegadores
 	- [ ] DOM
-- [ ] Servidores
