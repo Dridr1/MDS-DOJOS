@@ -71,3 +71,17 @@ Com isso, vocês já serão capazes de ir atrás das tags HTML (SÃO VÁRIAS!!!)
 Alguns tópicos legais de se pesquisar:
 - Tags semânticas
 - Listas e listas ordenadas
+
+## Desafio
+Faça um currículo usando apenas HTML.
+Não se preocupe em deixa-lo bonito, apenas organizado.
+
+Tags utilizadas:
+```
+<ul></ul> -> unordered list
+<li></li> -> list item
+<h(n)></h(n)> -> títulos de tamanhos diferentes
+<p></p> -> parágrafo
+<br> -> quebra de linha
+```
+
