@@ -1,3 +1,2 @@
 - [ ] [[HTTP e TCP-IP]]
-- [ ] Navegadores
-	- [ ] DOM
+- [ ] [[Navegadores]]
